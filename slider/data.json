@@ -1,0 +1,12 @@
+{
+    "colors": [
+      { "color": "red", "value": 0 },
+      { "color": "orange", "value": 10 },
+      { "color": "yellow", "value": 20 },
+      { "color": "green", "value": 30 },
+      { "color": "blue", "value": 40 },
+      { "color": "indigo", "value": 50 },
+      { "color": "violet", "value": 60 }
+    ]
+  }
+  
